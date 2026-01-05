@@ -1,4 +1,5 @@
 # ProductivityApp
+A lightweight Java-based desktop productivity app with a simple Graphical User Interface (GUI). Designed to provide essential productivity features in a clean and beginner-friendly implementation.
 
 THE BASIC APPLICATION ENABLES THE
 FOLLOWING FEATURES.
